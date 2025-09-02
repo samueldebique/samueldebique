@@ -8,18 +8,15 @@ I’m a second year Mathematics and Computer Science student with a strong inter
 
 I’m eager to transition into the field of cybersecurity, where I can apply my technical skills, grow through hands-on experience, and contribute to protecting digital systems in a security focused environment.
 
-<!--
+
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Real-time System & Network Monitoring         | <a href="https://github.com/your-username/discord-notifier">Discord Notifier</a> |
+| Python Automation                             | <a href="https://github.com/your-username/crypto-auto-email">Crypto Auto Email New Coin</a> |
 
+<!--
 ## Tools 
 
 ### Network
