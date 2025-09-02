@@ -8,14 +8,9 @@ I’m a second year Mathematics and Computer Science student with a strong inter
 
 I’m eager to transition into the field of cybersecurity, where I can apply my technical skills, grow through hands-on experience, and contribute to protecting digital systems in a security focused environment.
 
-## Skills
-
-
-| Skill                                      | Associated Project         |
-|-------------------------------------------|----------------------------|
-| Real-time Log Monitoring                   | [Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications) |
-| Python Automation & Threat Detection      | [Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier) |
-
+## Projects
+[Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications)
+[Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier)
 
 ## Tools 
 
@@ -25,17 +20,13 @@ I’m eager to transition into the field of cybersecurity, where I can apply my 
     <img src="https://img.shields.io/badge/-Nmap-9BE000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-
-
 ### Scripting & Automation
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
 
 <!--
 ## Certifications
