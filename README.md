@@ -12,11 +12,11 @@ I’m eager to transition into the field of cybersecurity, where I can apply my 
 
 ### Discord Notifier
 Monitors SSH and Proxmox web logins in real-time and sends notifications via Discord.  
-**GitHub:** [Discord Notifier](https://github.com/your-username/discord-notifier](https://github.com/samueldebique/Cryptocurrency-Notifications)
+[Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications)
 
 ### Crypto Auto Email
 Python automation to detect new cryptocurrency listings and send email alerts.  
-**GitHub:** [Crypto Auto Email](https://github.com/your-username/crypto-auto-email](https://github.com/samueldebique/proxmox-login-notifier)
+[Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier)
 
 <!--
 ## Skills
