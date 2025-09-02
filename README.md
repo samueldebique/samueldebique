@@ -8,23 +8,13 @@ I’m a second year Mathematics and Computer Science student with a strong inter
 
 I’m eager to transition into the field of cybersecurity, where I can apply my technical skills, grow through hands-on experience, and contribute to protecting digital systems in a security focused environment.
 
-## Projects
-
-### Discord Notifier
-Monitors SSH and Proxmox web logins in real-time and sends notifications via Discord.  
-[Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications)
-
-### Crypto Auto Email
-Python automation to detect new cryptocurrency listings and send email alerts.  
-[Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier)
-
-<!--
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Real-time System & Network Monitoring         | <a href="https://github.com/your-username/discord-notifier">Discord Notifier</a> |
-| Python Automation                             | <a href="https://github.com/your-username/crypto-auto-email">Crypto Auto Email New Coin</a> |
+
+| Skill                                      | Associated Project         |
+|-------------------------------------------|----------------------------|
+| Real-time Log Monitoring                   | [Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications) |
+| Python Automation & Threat Detection      | [Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier) |
 
 
 ## Tools 
