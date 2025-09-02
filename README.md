@@ -10,6 +10,7 @@ I’m eager to transition into the field of cybersecurity, where I can apply my 
 
 ## Projects
 [Discord Notifier](https://github.com/samueldebique/Cryptocurrency-Notifications)
+
 [Crypto Auto Email](https://github.com/samueldebique/proxmox-login-notifier)
 
 ## Tools 
