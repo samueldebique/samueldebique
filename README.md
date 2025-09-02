@@ -8,7 +8,17 @@ I’m a second year Mathematics and Computer Science student with a strong inter
 
 I’m eager to transition into the field of cybersecurity, where I can apply my technical skills, grow through hands-on experience, and contribute to protecting digital systems in a security focused environment.
 
+## Projects
 
+### Discord Notifier
+Monitors SSH and Proxmox web logins in real-time and sends notifications via Discord.  
+**GitHub:** [Discord Notifier](https://github.com/your-username/discord-notifier)
+
+### Crypto Auto Email
+Python automation to detect new cryptocurrency listings and send email alerts.  
+**GitHub:** [Crypto Auto Email](https://github.com/your-username/crypto-auto-email)
+
+<!--
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -16,7 +26,7 @@ I’m eager to transition into the field of cybersecurity, where I can apply my 
 | Real-time System & Network Monitoring         | <a href="https://github.com/your-username/discord-notifier">Discord Notifier</a> |
 | Python Automation                             | <a href="https://github.com/your-username/crypto-auto-email">Crypto Auto Email New Coin</a> |
 
-<!--
+
 ## Tools 
 
 ### Network
