@@ -20,19 +20,12 @@ Mathematics & Computer Science student working toward a career in penetration te
 
 ## Repositories
 
-### 🔴 Offensive Security
 | Repo | Description |
 |------|-------------|
-| [ctf-writeups](https://github.com/samueldebique/ctf-writeups) | HTB, TryHackMe, and CTF event writeups with full methodology |
-| [bug-bounty-methodology](https://github.com/samueldebique/bug-bounty-methodology) | Recon process, vulnerability checklists, and reporting templates |
-| [tools](https://github.com/samueldebique/tools) | Recon scripts and automation built for testing |
-
-### 🏠 Homelab & Infrastructure
-| Repo | Description |
-|------|-------------|
-| [homelab](https://github.com/samueldebique/homelab) | Proxmox setup, self-hosted services, and network segmentation docs |
-| [Proxmox Login Notifier](https://github.com/samueldebique/proxmox-login-notifier) | Telegram alerts for Proxmox SSH logins |
-| [Crypto Auto Email](https://github.com/samueldebique/Cryptocurrency-Notifications) | Automated cryptocurrency price notification system |
+| [ctf-writeups](https://github.com/samueldebique/ctf-writeups) | Writeups across HTB, TryHackMe, and CTF events |
+| [bug-bounty-methodology](https://github.com/samueldebique/bug-bounty-methodology) | My recon process, checklists, and reporting templates |
+| [homelab](https://github.com/samueldebique/homelab) | Proxmox infrastructure, self-hosted services, and lab documentation |
+| [tools](https://github.com/samueldebique/tools) | Scripts and automation built for recon and testing |
 
 ---
 
