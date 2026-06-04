@@ -1,7 +1,7 @@
 # Hi, I'm Samuel 👋
 
 <a href="https://linkedin.com/in/samueldebique"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+<a href="[https://app.hackthebox.com](https://profile.hackthebox.com/profile/019e9388-257d-7093-b36e-031663fb325c)"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 Mathematics & Computer Science student working toward a career in penetration testing and offensive security. I build, break, and document.
