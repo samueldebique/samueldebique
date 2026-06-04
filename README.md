@@ -1,30 +1,49 @@
-# Hello, I'm Samuel! 
+# Hi, I'm Samuel 👋
+
 <a href="https://linkedin.com/in/samueldebique"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
+Mathematics & Computer Science student working toward a career in penetration testing and offensive security. I build, break, and document.
 
-I’m a second year Mathematics and Computer Science student with a strong interest in cybersecurity and a passion for solving complex technical problems through logical thinking and innovation.
+---
 
-## Objective
+## Focus
 
-I’m eager to transition into the field of cybersecurity, where I can apply my technical skills, grow through hands-on experience, and contribute to protecting digital systems in a security focused environment.
+- 🔐 Web application security, network security, and offensive tooling
+- 🧪 Actively practicing on TryHackMe and HackTheBox — writeups in [`ctf-writeups`](https://github.com/samueldebique/ctf-writeups)
+- 🐛 Bug bounty hunting — methodology documented in [`bug-bounty-methodology`](https://github.com/samueldebique/bug-bounty-methodology)
+- 🏠 Homelab on Proxmox — self-hosted services, network segmentation, and attack lab practice
+- 🎓 BSc Mathematics & Computer Science — University of Birmingham (2027)
+
+---
 
 ## Projects
-[Proxmox Login Notifier](https://github.com/samueldebique/proxmox-login-notifier)
 
-[Crypto Auto Email](https://github.com/samueldebique/Cryptocurrency-Notifications)
+| Project | Description |
+|---------|-------------|
+| [ctf-writeups](https://github.com/samueldebique/ctf-writeups) | HTB, TryHackMe, and CTF event writeups with full methodology |
+| [bug-bounty-methodology](https://github.com/samueldebique/bug-bounty-methodology) | Recon process, vulnerability checklists, and reporting templates |
+| [homelab](https://github.com/samueldebique/homelab) | Proxmox infrastructure, self-hosted services, and lab documentation |
+| [Proxmox Login Notifier](https://github.com/samueldebique/proxmox-login-notifier) | Telegram alerts for Proxmox SSH logins |
+| [Crypto Auto Email](https://github.com/samueldebique/Cryptocurrency-Notifications) | Automated cryptocurrency price notification system |
 
-## Tools 
+---
+
+## Tools & Technologies
 
 ### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### Network
+### Security & Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-9BE000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp Suite-FF6633?&style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-9BE000?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
 ### Scripting & Automation
@@ -34,14 +53,21 @@ I’m eager to transition into the field of cybersecurity, where I can apply my 
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
+### Infrastructure
+<div>
+  <img src="https://img.shields.io/badge/-Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+</div>
 
+---
 
-<!--
 ## Certifications
 
 <div>
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-EF3C42?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CPSA-In_Progress_2026-E83E3E?style=for-the-badge&logoColor=white" />
 </div>
 
+---
 
+*Always learning. Always building.*
