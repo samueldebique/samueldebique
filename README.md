@@ -12,7 +12,6 @@ Mathematics & Computer Science student working toward a career in penetration te
 
 - 🔐 Web application security, network security, and offensive tooling
 - 🧪 Actively practicing on TryHackMe and HackTheBox — writeups in [`ctf-writeups`](https://github.com/samueldebique/ctf-writeups)
-- 🐛 Bug bounty hunting — methodology documented in [`bug-bounty-methodology`](https://github.com/samueldebique/bug-bounty-methodology)
 - 🏠 Homelab on Proxmox — self-hosted services, network segmentation, and attack lab practice
 - 🎓 BSc Mathematics & Computer Science — University of Birmingham (2027)
 
@@ -23,7 +22,6 @@ Mathematics & Computer Science student working toward a career in penetration te
 | Repo | Description |
 |------|-------------|
 | [ctf-writeups](https://github.com/samueldebique/ctf-writeups) | Writeups across HTB, TryHackMe, and CTF events |
-| [bug-bounty-methodology](https://github.com/samueldebique/bug-bounty-methodology) | My recon process, checklists, and reporting templates |
 | [homelab](https://github.com/samueldebique/homelab) | Proxmox infrastructure, self-hosted services, and lab documentation |
 | [tools](https://github.com/samueldebique/tools) | Scripts and automation built for recon and testing |
 
